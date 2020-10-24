@@ -1,0 +1,17 @@
+img {
+  max-height: 250px;
+  max-width: 250px;
+}
+
+.top-bar {
+  background-color: #5fc9a2;
+}
+
+.navbar-brand {
+  text-align: center;
+  width: 100%;
+}
+
+.custom-card .card-header {
+  background-color: #5fc9a2;
+}
